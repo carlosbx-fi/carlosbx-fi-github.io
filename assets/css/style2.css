@@ -1,0 +1,19 @@
+img{
+    width: 300px;
+    height: 1500px;
+}
+ul, 
+li{
+    font-size: 2rem;
+    color: black;
+    font-weight: bold;
+}
+footer{
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:dodgerblue;
+    background-color: black;
+}
